@@ -1,0 +1,461 @@
+{
+  "version": "2.6",
+  "sourcePage": "https://www.4399.com/flash/176245.htm",
+  "originalWrapper": {
+    "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/main.swf",
+    "bytes": 8525879,
+    "sha256": "28fba6e62f2ccc8194b86940f28700f480b72a7158283e91fca1fa875713210b"
+  },
+  "game": {
+    "file": "main.swf",
+    "note": "Unmodified DefineBinaryData payload, character ID 3, extracted from the original wrapper. Game scripts and assets are not rewritten.",
+    "bytes": 8444007,
+    "sha256": "707fac0ec6bb2af1a3d18dc308dd403cb556a0988144b0f6f10555382287f92d"
+  },
+  "assets": [
+    {
+      "file": "fighter/Byakuya.swf",
+      "bytes": 1321294,
+      "sha256": "c590f9ca2aea152d26aea8d6a10c4ee31a2019d9798c637820f145feef13b52f",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/Byakuya.swf"
+    },
+    {
+      "file": "fighter/chad.swf",
+      "bytes": 490239,
+      "sha256": "2a15610b6e28d2a0b1c88d616b0af0406c9ee78410007068c3e43a6a1967a4be",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/chad.swf"
+    },
+    {
+      "file": "fighter/daitu.swf",
+      "bytes": 3188935,
+      "sha256": "8fb8a5d31142d8a3217964b65cf19e4131bdcea498303504425890daa8a96be8",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/daitu.swf"
+    },
+    {
+      "file": "fighter/didala.swf",
+      "bytes": 1390254,
+      "sha256": "0f9a58902d84759892692fe71b1b9f54d076edfbd3480a51a1449d66e4e5b621",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/didala.swf"
+    },
+    {
+      "file": "fighter/fz/ban.swf",
+      "bytes": 27160,
+      "sha256": "2ccbf88babb7ee726d6ced29668c2b735246dc9ea15495b07c4d0df085464efb",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/ban.swf"
+    },
+    {
+      "file": "fighter/fz/baqianliu.swf",
+      "bytes": 11016,
+      "sha256": "9a4f63c60ccea911b0e72ec2a41c344c6c0d49ec88861040eea7d793765f2642",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/baqianliu.swf"
+    },
+    {
+      "file": "fighter/fz/gangshou.swf",
+      "bytes": 41761,
+      "sha256": "8d645029f274865a09c779d1b658b28650385138cbf9478c26bc3ece380e93c0",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/gangshou.swf"
+    },
+    {
+      "file": "fighter/fz/grimmjow.swf",
+      "bytes": 42756,
+      "sha256": "248deca1e1db3ea91618298fb2dcd1acb55cfb8dfe5d351b64c3c020da6e80ce",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/grimmjow.swf"
+    },
+    {
+      "file": "fighter/fz/harribel.swf",
+      "bytes": 38146,
+      "sha256": "3f502167d773153f24a113070eae0e7d94117a32cadccdf18b4b2f0aa00b46df",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/harribel.swf"
+    },
+    {
+      "file": "fighter/fz/jianba.swf",
+      "bytes": 133213,
+      "sha256": "8f5a7b1d6a5ef3f0c38d669f1311cd668f06e8847eaaaad0719d513b97272db0",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/jianba.swf"
+    },
+    {
+      "file": "fighter/fz/jinye.swf",
+      "bytes": 56733,
+      "sha256": "03736bfd2ef7e9b79f958971fc7192ea641653039212e29793ed291c56bfa62a",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/jinye.swf"
+    },
+    {
+      "file": "fighter/fz/jiraiya.swf",
+      "bytes": 45359,
+      "sha256": "57514c4200394fd2c37beb98f7c03daf1a593c77578162801aaaa869770d8925",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/jiraiya.swf"
+    },
+    {
+      "file": "fighter/fz/kon.swf",
+      "bytes": 29308,
+      "sha256": "a4fdb0f810b8e305145f593cf48c9e4fb5440316ab0d104acd6df1dc47921201",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/kon.swf"
+    },
+    {
+      "file": "fighter/fz/nemu.swf",
+      "bytes": 16862,
+      "sha256": "1b9ef100382e131250d3db516adecacc275cf4e0acf47339475ba43790144e77",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/nemu.swf"
+    },
+    {
+      "file": "fighter/fz/shishio.swf",
+      "bytes": 469552,
+      "sha256": "b1bf4bae3089429af81f3a006af40aa7b3648043980325cacdd62272e02e9317",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/shishio.swf"
+    },
+    {
+      "file": "fighter/fz/shouju.swf",
+      "bytes": 49327,
+      "sha256": "6492737cf106fa63e366ee6dee61cf3c3adadf01964d83560734e3a754d56f4f",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/shouju.swf"
+    },
+    {
+      "file": "fighter/fz/shuiyue.swf",
+      "bytes": 35164,
+      "sha256": "701df5bfd1ac3eafb69399ef45477d5642b361640d85bbda021370dd5fcf4570",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/shuiyue.swf"
+    },
+    {
+      "file": "fighter/fz/sidai.swf",
+      "bytes": 148599,
+      "sha256": "931d6000ed25d24ee67e119113e8b8ce88081746428c4d28a5c44d58d90ffc48",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/sidai.swf"
+    },
+    {
+      "file": "fighter/fz/soifong.swf",
+      "bytes": 1141308,
+      "sha256": "345e4951288053a4d7331f8b557c33e90643f8bf9f5e611cb4353bc015dcd746",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/soifong.swf"
+    },
+    {
+      "file": "fighter/fz/stake.swf",
+      "bytes": 46893,
+      "sha256": "4ecf77ea0687914cf4c1558287c3ca4e90c289435891976671f5fc0e14991f35",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/stake.swf"
+    },
+    {
+      "file": "fighter/fz/tenten.swf",
+      "bytes": 14656,
+      "sha256": "92fb3b604867432aa405def3aa30a5cae36c74985bc99043255abb801e6dc9b2",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/tenten.swf"
+    },
+    {
+      "file": "fighter/fz/tuyin.swf",
+      "bytes": 58536,
+      "sha256": "dd4c82f4b826baf6f405e309645f0accfc99ed6b9f3a110d614519ebdf91d2a0",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/tuyin.swf"
+    },
+    {
+      "file": "fighter/fz/woailuo.swf",
+      "bytes": 75341,
+      "sha256": "f501b7c4ed0425e85f499c8ba65e0bf520c79054bbbc63d502c663105ca1ab14",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/woailuo.swf"
+    },
+    {
+      "file": "fighter/fz/yeyi.swf",
+      "bytes": 46035,
+      "sha256": "303805ff653ffeb8913f425c8baecf50cb86787ed97b5d6ca1e88ef5f773edbe",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/yeyi.swf"
+    },
+    {
+      "file": "fighter/fz/yihuxuliu.swf",
+      "bytes": 80677,
+      "sha256": "5f84647d6bf0c00f40facdfbdc5363f678d484cc386bb6dad3500347a297b08f",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/yihuxuliu.swf"
+    },
+    {
+      "file": "fighter/fz/you.swf",
+      "bytes": 40175,
+      "sha256": "a00ed19723373b43b347f802a13c822eae21662d2a85b38336fdba9eb641f604",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/you.swf"
+    },
+    {
+      "file": "fighter/fz/yulong.swf",
+      "bytes": 56117,
+      "sha256": "0a3c088d2dc67d0ea526c1533dd96e688826ab4f9768cfb7fcdf65f7077b71ff",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/yulong.swf"
+    },
+    {
+      "file": "fighter/fz/zhiji.swf",
+      "bytes": 17699,
+      "sha256": "af8f0289c41fdecb2f659c82673f0e4aba965f71b8f2a141c1f1551448c5db16",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/zhiji.swf"
+    },
+    {
+      "file": "fighter/fz/zhitian.swf",
+      "bytes": 181489,
+      "sha256": "b2dcffe4f6db8e46f4423384d3612f1c15b8b4a8f2ec52b15dfad29d4ef037ad",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/zhitian.swf"
+    },
+    {
+      "file": "fighter/fz/zuojin.swf",
+      "bytes": 40784,
+      "sha256": "1574bbea789547adf87d7bc8b2e1eadd8acc14749f2d2e8a11f8ada271540588",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/fz/zuojin.swf"
+    },
+    {
+      "file": "fighter/gaara.swf",
+      "bytes": 1119487,
+      "sha256": "441340a3e05589646d82ed570c79e32f3d97d639bc153c7da385d06a522d3bd3",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/gaara.swf"
+    },
+    {
+      "file": "fighter/ichigo.swf",
+      "bytes": 999337,
+      "sha256": "21bf68e942d417b0b39e8702ae388b8146a9c275510d83125d51a4f08dd9723f",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/ichigo.swf"
+    },
+    {
+      "file": "fighter/itachi.swf",
+      "bytes": 3478400,
+      "sha256": "35f626a8fc95352f61d25c93b4f139745cc9d50c39ba169b74e327ed61f25c3c",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/itachi.swf"
+    },
+    {
+      "file": "fighter/jianba.swf",
+      "bytes": 569987,
+      "sha256": "d1e4851ce8274fffe8dfdc6e8bc8b9407a7ffff690512693fc5866bfe49cc609",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/jianba.swf"
+    },
+    {
+      "file": "fighter/jiraiya.swf",
+      "bytes": 975570,
+      "sha256": "fba0b65d3e14c78e9ed999fc96479eba01fbd589a85f7ebdcfec3c98fd51be12",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/jiraiya.swf"
+    },
+    {
+      "file": "fighter/juggo.swf",
+      "bytes": 396135,
+      "sha256": "b33421881ac7ac9fe38f2d6d759bc78e80ef5caf8693ef02d655635c0b86f339",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/juggo.swf"
+    },
+    {
+      "file": "fighter/Kakashi.swf",
+      "bytes": 403601,
+      "sha256": "48587becee990fccfd7450a1b605a24b2d654dbd15569857659f67346bddb2fc",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/Kakashi.swf"
+    },
+    {
+      "file": "fighter/karin.swf",
+      "bytes": 1337699,
+      "sha256": "995ea7a1b6aceef2572f0854020d9ddf9462e902a10257344d338c0b6fc0b5c8",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/karin.swf"
+    },
+    {
+      "file": "fighter/Kenshin.swf",
+      "bytes": 1530671,
+      "sha256": "284f8ef411455c68c0fbb28bb3cf58468a268f2a4296cb6177108ebaa32a9d54",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/Kenshin.swf"
+    },
+    {
+      "file": "fighter/konan.swf",
+      "bytes": 427218,
+      "sha256": "42e1f5b86ec7f08f29d5027af99c5f049bf1f7a9db9bd2a3e4fa1d771d2471b6",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/konan.swf"
+    },
+    {
+      "file": "fighter/lanran.swf",
+      "bytes": 1189406,
+      "sha256": "ae96976f5d912319862cfd5260bac2f06466368d32643aa373af7caa38cc89c7",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/lanran.swf"
+    },
+    {
+      "file": "fighter/lee.swf",
+      "bytes": 366204,
+      "sha256": "2443dc112dbf2be696abb9d924831814ae01990536df8298fa2c1432f35c93d1",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/lee.swf"
+    },
+    {
+      "file": "fighter/mayuri.swf",
+      "bytes": 527510,
+      "sha256": "b13277fdf268be9a0a6863d73d5cd17347cc2d0863365fa6757c62c34a891f81",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/mayuri.swf"
+    },
+    {
+      "file": "fighter/minren.swf",
+      "bytes": 1090547,
+      "sha256": "3640d0ea2355cc07b648b75c4f6022cb1c4477748ea0b719307d8072a32f4c2d",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/minren.swf"
+    },
+    {
+      "file": "fighter/minrenx.swf",
+      "bytes": 1614412,
+      "sha256": "3ab1aa4fa7bf8301cc4ec480517ab8f23e29dc82867ee8bcc1741fee20637bde",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/minrenx.swf"
+    },
+    {
+      "file": "fighter/neji.swf",
+      "bytes": 417295,
+      "sha256": "1fdb9692202266a9122b881aefa734176f5e4f65a214d5e414f10cbbfd12519c",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/neji.swf"
+    },
+    {
+      "file": "fighter/orochimaru.swf",
+      "bytes": 434653,
+      "sha256": "cde82387dc86458addeda5ec63232018122514bd795d0bd802613db36b47b8ad",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/orochimaru.swf"
+    },
+    {
+      "file": "fighter/pain.swf",
+      "bytes": 1073884,
+      "sha256": "bb66f940d2e83ec0d141d3a8d8150ec197ae0a3f83d3f77651555f676029e4cd",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/pain.swf"
+    },
+    {
+      "file": "fighter/qilabi.swf",
+      "bytes": 1504168,
+      "sha256": "e78344d921556e1b57ddb4b95f117e5b9ed6da945822b2fe2ea6d93ecb1afd70",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/qilabi.swf"
+    },
+    {
+      "file": "fighter/Renji.swf",
+      "bytes": 712347,
+      "sha256": "7505e9591f46ba1d05bb03fff9450d52583804022a08ba3bb7a0ecfb21cb116a",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/Renji.swf"
+    },
+    {
+      "file": "fighter/rifagu.swf",
+      "bytes": 1336945,
+      "sha256": "d440f6f6863b1067a70d458df83a27eade554dffc94c42b4b9ccd10bd1454f96",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/rifagu.swf"
+    },
+    {
+      "file": "fighter/rukia.swf",
+      "bytes": 718398,
+      "sha256": "c48d47a817dbf1b4fff9b333bb35d89debb64d0635e8d88b4a7d1228208194eb",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/rukia.swf"
+    },
+    {
+      "file": "fighter/Sakura.swf",
+      "bytes": 414194,
+      "sha256": "7d5d060ea9949f54535f801abd3ebdb23de5e7fc7cd5644186f7d805a47ba544",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/Sakura.swf"
+    },
+    {
+      "file": "fighter/Sasuke.swf",
+      "bytes": 1020450,
+      "sha256": "c413d7c4d840d99deedc22778ee9a6383263b8ecd2e77a6c0712ca2a166c73f6",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/Sasuke.swf"
+    },
+    {
+      "file": "fighter/sasukexz.swf",
+      "bytes": 1204523,
+      "sha256": "fd634abbcefbcf50bac507e85e116038be0f63316b8d483a131597e2757bf20f",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/sasukexz.swf"
+    },
+    {
+      "file": "fighter/shouju.swf",
+      "bytes": 398883,
+      "sha256": "71749a25bd0cab546e89a09c2aa37ca455a725e4c1fd4e388f63b6babe03eb5d",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/shouju.swf"
+    },
+    {
+      "file": "fighter/weqal.swf",
+      "bytes": 1400442,
+      "sha256": "ea72662bcb9c2a4c7ee9e9a81bb92c1beb1323f3982de86aa8e24a23286dc171",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/weqal.swf"
+    },
+    {
+      "file": "fighter/yihu.swf",
+      "bytes": 1050761,
+      "sha256": "9f089bd3ee428382d8b99543a7534fb0f271ede09ed264b74847ca7cffcf1ac8",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/yihu.swf"
+    },
+    {
+      "file": "fighter/yijiao.swf",
+      "bytes": 600322,
+      "sha256": "9734a584c1e7c1b88665db0347595fd95083cba6a4c1410c5ee0381c22eb479d",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/yijiao.swf"
+    },
+    {
+      "file": "fighter/yin.swf",
+      "bytes": 359910,
+      "sha256": "3f67d6828bf5d865819d049e30a59c4c607ccddbc7859eba62642676c07f75d2",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/yin.swf"
+    },
+    {
+      "file": "fighter/yulong.swf",
+      "bytes": 625728,
+      "sha256": "fcf2246b602b4e498caf2b3c9ac6625ae492e45b6249effb22e9b7d669713199",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/fighter/yulong.swf"
+    },
+    {
+      "file": "music/bleach.mp3",
+      "bytes": 179404,
+      "sha256": "ebe1c7363cbd8159f1efad4b92b618509931c5438870a6434cce2148d15c097e",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/music/bleach.mp3"
+    },
+    {
+      "file": "music/bleachboss.mp3",
+      "bytes": 335521,
+      "sha256": "a2706ebba7d92876b7fc2055e602d94c1548d53c45c96fccfbb928b6d66c4cec",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/music/bleachboss.mp3"
+    },
+    {
+      "file": "music/city.mp3",
+      "bytes": 304733,
+      "sha256": "93444fbc27bcefc390174d057b65702deb82d33607457c648ecdbe8115ec4048",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/music/city.mp3"
+    },
+    {
+      "file": "music/ichigo.mp3",
+      "bytes": 259623,
+      "sha256": "e11ecd653d29015267182404f0d6c241219d0dae09a98ad6c68de931da76cfe4",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/music/ichigo.mp3"
+    },
+    {
+      "file": "music/minren.mp3",
+      "bytes": 288807,
+      "sha256": "f6f2cdbcf016c46b14ca859b9caf268b894fc15ac4ab9744b9fdef3234f8866c",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/music/minren.mp3"
+    },
+    {
+      "file": "music/naruto.mp3",
+      "bytes": 287024,
+      "sha256": "3d77c9c3b529e863805762d3349a569b2687ca5f3419a9746195cd9d3eca2cd2",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/music/naruto.mp3"
+    },
+    {
+      "file": "music/narutoboss.mp3",
+      "bytes": 440973,
+      "sha256": "5c7de15d3397fcad1e378a0be2208897bead814dbaf610dc8f041b51e0542126",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/music/narutoboss.mp3"
+    },
+    {
+      "file": "music/pubu.mp3",
+      "bytes": 316634,
+      "sha256": "19759af6cdfaa196b29c8cd33f244a03d2aa6dba5dd233ea701e9bb1e2ba6f1a",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/music/pubu.mp3"
+    },
+    {
+      "file": "music/sahndong.mp3",
+      "bytes": 96736,
+      "sha256": "7e7d810e083c28819d586608af7b3cdcb1ee254f00fe6a1ac7a653995c3d9808",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/music/sahndong.mp3"
+    },
+    {
+      "file": "music/sasuke.mp3",
+      "bytes": 277784,
+      "sha256": "8c8c92b2b6bb6e4562e696941b394241672280ac7384fa1b8b776bb8bcd9c4bb",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/music/sasuke.mp3"
+    },
+    {
+      "file": "music/village.mp3",
+      "bytes": 299718,
+      "sha256": "cec97a7365c41bc8297b2fa0984f8bd72285e9394d27fd50303dee1397b4e2d1",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/music/village.mp3"
+    },
+    {
+      "file": "music/water.mp3",
+      "bytes": 203629,
+      "sha256": "a70bf26991f86c446e929b21fa4eb5f2672c397f51113cddb676e57b524b21d5",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/music/water.mp3"
+    },
+    {
+      "file": "music/wind.mp3",
+      "bytes": 310206,
+      "sha256": "9fe644a6d79d27f9188c26564b0c1bc93f354eba4585a1cc148b49b94243e3c1",
+      "source": "https://s15.4399.com/4399swf/upload_swf/ftp29/haibo/suwei/y1/music/wind.mp3"
+    }
+  ]
+}

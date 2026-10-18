@@ -1,0 +1,8 @@
+{
+  "name":"bvn26-browser-edition",
+  "version":"1.0.0",
+  "private":true,
+  "description":"Original BVN 2.6 content running in modern browsers with Ruffle",
+  "scripts":{"start":"node server.cjs","test":"node tests/verify.cjs"},
+  "engines":{"node":">=18"}
+}
